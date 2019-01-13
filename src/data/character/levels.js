@@ -1,0 +1,22 @@
+export const levels = [
+    {level: 1, requried: 100},
+    {level: 2, requried: 150},
+    {level: 3, requried: 200},
+    {level: 4, requried: 250},
+    {level: 5, requried: 300},
+    {level: 6, requried: 370},
+    {level: 7, requried: 450},
+    {level: 8, requried: 570},
+    {level: 9, requried: 670},
+    {level: 10, requried: 780},
+    {level: 11, requried: 900},
+    {level: 12, requried: 1200},
+    {level: 13, requried: 1900},
+    {level: 14, requried: 2500},
+    {level: 15, requried: 3000},
+    {level: 16, requried: 4400},
+    {level: 17, requried: 6000},
+    {level: 18, requried: 8000},
+    {level: 19, requried: 10000},
+    {level: 20, requried: 15000}
+]
